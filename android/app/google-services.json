@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87308882805",
+    "project_id": "fluttermyauthh",
+    "storage_bucket": "fluttermyauthh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87308882805:android:8e5d4086327e4dff07f93c",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbKoBvuQLDU1ltk4K73QjFdwXApDV3tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
